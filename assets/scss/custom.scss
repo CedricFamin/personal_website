@@ -1,0 +1,50 @@
+#skills .gallery-grid
+{
+    grid-auto-rows: 96px;
+    grid-template-columns: repeat(auto-fit, 96px);
+}
+
+#skills .gallery-grid .gallery-item--medium
+{
+    grid-row-end: auto;
+    background: transparent;
+}
+
+.avatar
+{
+    width:180px;
+    height:180px;
+    border-radius: 15%;
+}
+
+.home-section
+{
+    padding: 30px 0;
+}
+
+.page-header .navbar
+{
+    background-color: white;
+}
+
+
+.dark #navbar-main .main-menu-item ul li .nav-link {
+    color: black;
+}
+
+
+.dark .navbar-brand {
+    color: black;
+}
+.navbar-dark .navbar-brand {
+    color: #2b2b2b;
+}
+
+.dark .navbar .navbar-nav .nav-link.active {
+    font-weight: bold !important;
+    color: rgba(0, 0, 0, 0.8) !important;
+}
+
+.dark .navbar .navbar-nav .nav-link {
+    color: rgba(0, 0, 0, 0.85);
+}
