@@ -49,7 +49,7 @@ Being more inclined towards data engineering and DevOps, I never considered myse
 # Choosing Hugo and GitHub
 As a non-web developer, I needed a static site generator that was easy to use and flexible. After some research, I came across Hugo, and it perfectly fit my requirements. Its simplicity and speed made the website development process smooth and enjoyable.
 
-To host the website, I opted for GitHub Pages. This choice allowed me to keep my website code and content separate. I set up two separate GitHub repositories: "[personal_website](https://github.com/Pamilator/personal_website)" to hold the raw Hugo code, and "[Pamilator.github.io](https://github.com/Pamilator/Pamilator.github.io)" to publish the compiled version of the site.
+To host the website, I opted for GitHub Pages. This choice allowed me to keep my website code and content separate. I set up two separate GitHub repositories: "[personal_website](https://github.com/CedricFamin/personal_website)" to hold the raw Hugo code, and "[CedricFamin.github.io](https://github.com/CedricFamin/CedricFamin.github.io)" to publish the compiled version of the site.
 
 ![Deploy](deploy.png)
 
